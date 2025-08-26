@@ -1,0 +1,9 @@
+com\qaswatech\hislop\controller\TeacherController.class
+com\qaswatech\hislop\database\Database.class
+com\qaswatech\hislop\service\StudentService.class
+com\qaswatech\hislop\service\TeacherService.class
+com\qaswatech\hislop\controller\StudentController.class
+com\qaswatech\hislop\dao\StudentDao.class
+com\qaswatech\hislop\dao\TeacherDao.class
+com\qaswatech\hislop\model\TeacherModel.class
+com\qaswatech\hislop\model\StudentModel.class
