@@ -1,9 +1,13 @@
 C:\Users\kamra\OneDrive\Documents\NetBeansProjects\HislopCollege\src\main\java\com\qaswatech\hislop\service\TeacherService.java
+C:\Users\kamra\OneDrive\Documents\NetBeansProjects\HislopCollege\src\main\java\com\qaswatech\hislop\service\InternService.java
+C:\Users\kamra\OneDrive\Documents\NetBeansProjects\HislopCollege\src\main\java\com\qaswatech\hislop\dao\StudentDao.java
+C:\Users\kamra\OneDrive\Documents\NetBeansProjects\HislopCollege\src\main\java\com\qaswatech\hislop\dao\InternDao.java
+C:\Users\kamra\OneDrive\Documents\NetBeansProjects\HislopCollege\src\main\java\com\qaswatech\hislop\dao\TeacherDao.java
 C:\Users\kamra\OneDrive\Documents\NetBeansProjects\HislopCollege\src\main\java\com\qaswatech\hislop\model\StudentModel.java
 C:\Users\kamra\OneDrive\Documents\NetBeansProjects\HislopCollege\src\main\java\com\qaswatech\hislop\controller\StudentController.java
 C:\Users\kamra\OneDrive\Documents\NetBeansProjects\HislopCollege\src\main\java\com\qaswatech\hislop\controller\TeacherController.java
 C:\Users\kamra\OneDrive\Documents\NetBeansProjects\HislopCollege\src\main\java\com\qaswatech\hislop\model\TeacherModel.java
-C:\Users\kamra\OneDrive\Documents\NetBeansProjects\HislopCollege\src\main\java\com\qaswatech\hislop\dao\StudentDao.java
 C:\Users\kamra\OneDrive\Documents\NetBeansProjects\HislopCollege\src\main\java\com\qaswatech\hislop\database\Database.java
-C:\Users\kamra\OneDrive\Documents\NetBeansProjects\HislopCollege\src\main\java\com\qaswatech\hislop\dao\TeacherDao.java
+C:\Users\kamra\OneDrive\Documents\NetBeansProjects\HislopCollege\src\main\java\com\qaswatech\hislop\model\InternModel.java
+C:\Users\kamra\OneDrive\Documents\NetBeansProjects\HislopCollege\src\main\java\com\qaswatech\hislop\controller\InternController.java
 C:\Users\kamra\OneDrive\Documents\NetBeansProjects\HislopCollege\src\main\java\com\qaswatech\hislop\service\StudentService.java
