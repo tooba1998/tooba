@@ -18,6 +18,12 @@
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="showTeacher.jsp">Show Teacher</a>
                         </li>
+                            <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="addIntern.jsp">Add intern</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="showInterns.jsp">Show intern</a>
+                        </li>
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="StudentController?task=logout">Logout</a>
                         </li>

@@ -6,6 +6,7 @@ package com.qaswatech.hislop.service;
 
 import com.qaswatech.hislop.dao.InternDao;
 import com.qaswatech.hislop.model.InternModel;
+import java.util.ArrayList;
 
 /**
  *
@@ -19,5 +20,10 @@ public class InternService {
         return message;
 
     }
+
+    public ArrayList<InternModel> showInterns() {
+        InternDao id = new InternDao();
+        return id.showInterns();
+  }
 
 }

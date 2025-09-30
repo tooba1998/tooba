@@ -103,6 +103,28 @@
                                             </textarea>
 
                                         </div>
+                                         <div class="mb-3">
+                                            <label for="exampleInputPassword1" class="form-label">City</label>
+                                            <select  name="city" class="form-control" id="exampleInputPassword1">
+                                                <option value="Nagpur">Nagpur</option>
+                                                <option value="Mumbai">Mumbai</option>
+                                                <option value="Nashik">Nashik</option>
+                                                <option value="Pune">Pune</option>
+                                                <option value="Amravati">Amravati</option>
+                                                <option value="Gondia">Gondia</option>
+                                            </select>
+                                        </div>
+                                         <div class="mb-3">
+                                            <label for="exampleInputPassword1" class="form-label">State</label>
+                                            <select  name="state" class="form-control" id="exampleInputPassword1">
+                                                <option value="Maharshtra">Maharshtra</option>
+                                                <option value="up">up</option>
+                                                <option value="Mp">Mp</option>
+                                                <option value="JandK">JandK</option>
+                                                <option value="Tamilnadu">Tamilnadu</option>
+                                                <option value="WestBengal">WestBengal</option>
+                                            </select>
+                                        </div>
 
 
 

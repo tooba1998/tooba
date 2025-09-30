@@ -7,6 +7,7 @@ package com.qaswatech.hislop.controller;
 import com.qaswatech.hislop.model.InternModel;
 import com.qaswatech.hislop.service.InternService;
 import java.io.IOException;
+import java.util.ArrayList;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -88,10 +89,17 @@ public class InternController extends HttpServlet {
         im.setDegree(request.getParameter("degree"));
         im.setSemester(request.getParameter("semester"));
         im.setAddress(request.getParameter("address"));
+        im.setCity(request.getParameter("city"));
+        im.setState(request.getParameter("state"));
         
         InternService is = new InternService();
         String message = is.insertIntern(im);
         response.sendRedirect("addIntern.jsp?msg=" + message);
     }
     
+    public ArrayList<InternModel> showInterns() {
+         InternService is = new InternService();
+        return is.showInterns();
+    
+}
 }

@@ -19,13 +19,32 @@ public class InternModel {
     private String degree;
     private String semester;
     private String address;
+     private String city;
+    private String state;
     private String created;
     private String updated;
+
+    public String getCity() {
+        return city;
+    }
+
+    public void setCity(String city) {
+        this.city = city;
+    }
+
+    public String getState() {
+        return state;
+    }
+
+    public void setState(String state) {
+        this.state = state;
+    }
+   
 
     public InternModel() {
     }
 
-    public InternModel(int id, String fullname, String phone, String email, String course, String degree, String semester, String address, String created, String updated) {
+    public InternModel(int id, String fullname, String phone, String email, String course, String college, String degree, String semester, String address, String city, String state, String created, String updated) {
         this.id = id;
         this.fullname = fullname;
         this.phone = phone;
@@ -35,9 +54,15 @@ public class InternModel {
         this.degree = degree;
         this.semester = semester;
         this.address = address;
+        this.city = city;
+        this.state = state;
         this.created = created;
         this.updated = updated;
     }
+    
+    
+
+  
 
     public int getId() {
         return id;

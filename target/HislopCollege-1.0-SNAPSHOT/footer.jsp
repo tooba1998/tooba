@@ -12,12 +12,15 @@
                 <a class href="showStudent.jsp">Show Student</a></div>
             <a class href="addTeacher.jsp">Add Teacher</a><div>
                 <a class href="showTeacher.jsp">Show Teacher</a></div>
+            <a class href="addIntern.jsp">Add intern</a>
+        <a class href="showInterns.jsp">Show interns</a>
 
-        </div>
-        <div class="col sm-4 text-center">
-            <h2>Contact Us</h2>
-            <i class="fa fa-instagram" style="font-size: 48px"></i>
-            <i class="fa fa-facebook" style="font-size: 48px"></i>
-        </div>
+
+</div>
+<div class="col sm-4 text-center">
+    <h2>Contact Us</h2>
+    <i class="fa fa-instagram" style="font-size: 48px"></i>
+    <i class="fa fa-facebook" style="font-size: 48px"></i>
+</div>
 
 </footer>

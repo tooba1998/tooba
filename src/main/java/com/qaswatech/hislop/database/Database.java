@@ -12,8 +12,8 @@ import java.sql.DriverManager;
  * @author kamra
  */
 public class Database {
-    private static final String USERNAME="root";
-    private static final String PASSWORD="12345";
+    private static final String USERNAME="newuser";
+    private static final String PASSWORD="@Mubbu9022";
     private static final String DATABASE="hislop_db";
     private static final String DBURL="jdbc:mysql://localhost/"+DATABASE;
     
